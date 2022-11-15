@@ -1,0 +1,15 @@
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/bin/Debug/net7.0/DevTeams.Repositories.deps.json
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/bin/Debug/net7.0/DevTeams.Repositories.dll
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/bin/Debug/net7.0/DevTeams.Repositories.pdb
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/bin/Debug/net7.0/DevTeams.Data.dll
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/bin/Debug/net7.0/DevTeams.Data.pdb
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/DevTeams.Repositories.csproj.AssemblyReference.cache
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/DevTeams.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/DevTeams.Repositories.AssemblyInfoInputs.cache
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/DevTeams.Repositories.AssemblyInfo.cs
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/DevTeams.Repositories.csproj.CoreCompileInputs.cache
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/DevTeams.Repositories.csproj.CopyComplete
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/DevTeams.Repositories.dll
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/refint/DevTeams.Repositories.dll
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/DevTeams.Repositories.pdb
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/DevTeams/DevTeams.Repositories/obj/Debug/net7.0/ref/DevTeams.Repositories.dll
